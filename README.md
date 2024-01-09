@@ -2,19 +2,10 @@
 👋 Senior Software Developer |  Toronto
 
 # 💫 About Me:
-Seasoned Full-stack developer with a strong foundation in engineering and and a passion for crafting innovative solutions.<br>
-
-🎓 Educational Background:
-
-Master's of Engineering in Electrical and Computer from University of Windsor.
-
-🛠️ Technical Proficiency:
-* **Backend**: Proficient in Node.js, Express, and various database systems like MongoDB and PostgreSQL.<br>
-* **Frontend**: Skilled in React, Redux for state management, and modern UI/UX practices.<br>
-* **Cloud & DevOps**: Extensive experience with AWS services including EC2, S3, Lambda, and API Gateway. Knowledgeable in CI/CD pipelines and containerization with Docker.<br>
+Seasoned Full-stack developer with a strong foundation in engineering and a passion for crafting innovative solutions.<br>
 
 🌐 Experience:
-* Over 10yrs of hands-on experience in designing, developing, and deploying scalable web applications.<br>
+* Over 10 Years of hands-on experience in designing, developing, and deploying scalable web applications.<br>
 * Proficient in building RESTful APIs using Node.js and Express.<br>
 * Expertise in frontend development with React.js, crafting interactive user interfaces, state management, and performance optimization.<br>
 * Extensive experience in cloud computing with AWS, including EC2, S3, Lambda, and API Gateway. Skilled in architecting and deploying robust, scalable, and secure cloud applications.<br>
